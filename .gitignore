@@ -8,7 +8,6 @@
 ######################
 # JHipster Lite
 ######################
-
 !/src/main/resources/generator/buildtool/gradle/gradle/wrapper/gradle-wrapper.jar
 !/src/main/resources/generator/buildtool/maven/.mvn/wrapper/maven-wrapper.jar
 /tests-ci/.pid-jhlite
@@ -184,3 +183,5 @@ dist/
 # Svelte
 ######################
 .svelte-kit/
+
+!/src/main/docker/jhlite-0.32.1-SNAPSHOT.jar
